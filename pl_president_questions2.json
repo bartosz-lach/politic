@@ -1,0 +1,753 @@
+[
+  {
+    "id": 1,
+    "content": "Jakie konkretne reformy planuje Pan/Pani wprowadzić, aby poprawić sytuację w służbie zdrowia?",
+    "answers": [
+      {
+        "id": 1,
+        "content": "Zwiększenie finansowania służby zdrowia, wprowadzenie e-zdrowia, zwiększenie liczby personelu medycznego.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 2,
+        "content": "Zwiększenie nakładów na zdrowie, reforma NFZ, sieć szpitali.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 3,
+        "content": "Zwiększenie nakładów na zdrowie do 7% PKB, lepsze wynagrodzenia, rozwój profilaktyki.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 4,
+        "content": "Autonomia szpitali, pieniądze za pacjentem, redukcja biurokracji.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "content": "Czy planuje Pan/Pani zmiany w systemie podatkowym? Jeśli tak, to jakie?",
+    "answers": [
+      {
+        "id": 1,
+        "content": "Uproszczenie systemu podatkowego, zamknięcie luk podatkowych, wprowadzenie progresywnego systemu.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 2,
+        "content": "Utrzymanie niskich stawek podatkowych, ulgi podatkowe dla rodzin, wsparcie dla inwestycji.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 3,
+        "content": "Uproszczenie, wprowadzenie podatku od wielkich majątków.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 4,
+        "content": "Likwidacja PIT, obniżenie VAT, reforma CIT.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "content": "Jak zamierza Pan/Pani wspierać rozwój małych i średnich przedsiębiorstw?",
+    "answers": [
+      {
+        "id": 1,
+        "content": "Ułatwienia administracyjne, dostęp do finansowania, promocja innowacji.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 2,
+        "content": "Ulgi podatkowe, dofinansowanie dla małych firm.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 3,
+        "content": "Ulgi podatkowe, uproszczenie procedur administracyjnych, wsparcie w innowacjach.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 4,
+        "content": "Uproszczenie przepisów, obniżenie podatków, dobrowolny ZUS.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "Jakie działania podejmie Pan/Pani, aby przeciwdziałać kryzysowi mieszkaniowemu?",
+    "answers": [
+      {
+        "id": 1,
+        "content": "Wprowadzenie programów wspierających budownictwo mieszkaniowe, w tym mieszkania na wynajem z możliwością dojścia do własności.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 2,
+        "content": "Możliwe wsparcie dla programów typu Mieszkanie Plus.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 3,
+        "content": "Rozwój budownictwa socjalnego i komunalnego, reforma rynku mieszkaniowego.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 4,
+        "content": "Brak konkretnych deklaracji.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "content": "Czy zamierza Pan/Pani wprowadzić programy wspierające rozwój odnawialnych źródeł energii w Polsce?",
+    "answers": [
+      {
+        "id": 51,
+        "content": "Poparcie dla rozwoju OZE, prosumenckie inwestycje, zwiększenie wsparcia dla energetyki odnawialnej.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 52,
+        "content": "Ostrożne podejście, lokalny rozwój OZE.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 53,
+        "content": "Silny nacisk na rozwój OZE, programy wsparcia.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 54,
+        "content": "Przeciwny 'Zielonemu Ładowi', promocja energii jądrowej.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "Jaka będzie Pana/Pani strategia wobec Rosji i wojny w Ukrainie?",
+    "answers": [
+      {
+        "id": 61,
+        "content": "Silne wsparcie dla Ukrainy, dążenie do sankcji na Rosję, konsolidacja wsparcia międzynarodowego.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 62,
+        "content": "Wsparcie dla Ukrainy, bezpieczeństwo Polski.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 63,
+        "content": "Poparcie dla Ukrainy, dyplomacja.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 64,
+        "content": "Przeciw zaangażowaniu wojskowemu, nieangażowanie Polski w wojnę.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "Czy zamierza Pan/Pani kontynuować politykę wzmacniania współpracy z Unią Europejską? Jakie priorytety ma Pan/Pani w tej dziedzinie?",
+    "answers": [
+      {
+        "id": 71,
+        "content": "Silna integracja, priorytety gospodarcze i klimatyczne.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 72,
+        "content": "Współpraca z naciskiem na suwerenność Polski.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 73,
+        "content": "Silna pozycja Polski w UE, reformy demokratyczne.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 74,
+        "content": "Asertywna polityka wobec UE, krytyka polityki klimatycznej.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "content": "Jakie kroki podejmie Pan/Pani w celu zapewnienia bezpieczeństwa energetycznego Polski?",
+    "answers": [
+      {
+        "id": 81,
+        "content": "Diversyfikacja źródeł energii, inwestycje w OZE i gazoport.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 82,
+        "content": "Inwestycje w elektrownie węglowe i jądrowe, ale też OZE.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 83,
+        "content": "Inwestycje w zieloną energię, odchodzenie od węgla.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 84,
+        "content": "Elektrownia jądrowa jako klucz do bezpieczeństwa energetycznego.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "content": "Jak zamierza Pan/Pani budować relacje z USA oraz NATO?",
+    "answers": [
+      {
+        "id": 91,
+        "content": "Silne partnerstwo strategiczne, zwiększenie obecności wojskowej NATO w Polsce.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 92,
+        "content": "Kontynuacja sojuszu z USA, wzmocnienie flanki wschodniej NATO.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 93,
+        "content": "Pogłębianie relacji, ale z suwerennością Polski.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 94,
+        "content": "Silne relacje, ale z naciskiem na suwerenność Polski.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "content": "Czy przewiduje Pan/Pani zwiększenie wydatków na obronność?",
+    "answers": [
+      {
+        "id": 101,
+        "content": "Zwiększenie wydatków na modernizację armii, aby spełniać wymogi NATO.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 102,
+        "content": "Kontynuacja polityki PiS, która zwiększyła wydatki na obronność.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 103,
+        "content": "Zwiększenie z naciskiem na efektywność i innowacje.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 104,
+        "content": "Silna, samodzielna armia, ale bez szczegółów o wydatkach.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "content": "Jakie zmiany planuje Pan/Pani w systemie edukacji, aby lepiej przygotować młodych ludzi do wyzwań XXI wieku?",
+    "answers": [
+      {
+        "id": 111,
+        "content": "Modernizacja programu nauczania, rozwój kompetencji cyfrowych i krytycznego myślenia.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 112,
+        "content": "Konserwatywna edukacja z naciskiem na historię i patriotyzm.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 113,
+        "content": "Reforma edukacji, wprowadzenie nowoczesnych metod nauczania, wsparcie dla nauczycieli.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 114,
+        "content": "Uproszczenie biurokracji, autonomia szkół.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "content": "W jaki sposób zamierza Pan/Pani przeciwdziałać podziałom społecznym w Polsce?",
+    "answers": [
+      {
+        "id": 121,
+        "content": "Dialog społeczny, edukacja obywatelska, promowanie tolerancji i zrozumienia różnorodności.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 122,
+        "content": "Promowanie wartości konserwatywnych jako sposobu na jedność.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 123,
+        "content": "Dialog, edukacja w zakresie tolerancji, budowanie wspólnoty na różnorodności.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 124,
+        "content": "Krytyka 'poprawności politycznej', brak wyraźnej strategii na podziały społeczne.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "content": "Czy ma Pan/Pani plan na walkę z kryzysem demograficznym i poprawę wskaźnika urodzeń?",
+    "answers": [
+      {
+        "id": 131,
+        "content": "Programy wspierające rodziny, polityka prorodzinna, ułatwienia dla młodych rodziców.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 132,
+        "content": "Kontynuacja programów typu 500+.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 133,
+        "content": "Polityka prorodzinna, wsparcie dla rodzin, z naciskiem na jakość życia.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 134,
+        "content": "Brak szczegółowych deklaracji.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "Jakie działania podejmie Pan/Pani, aby chronić prawa kobiet i mniejszości w Polsce?",
+    "answers": [
+      {
+        "id": 141,
+        "content": "Popiera równość płci, prawa reprodukcyjne, walkę z dyskryminacją.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 142,
+        "content": "Bardziej konserwatywne podejście do praw kobiet i mniejszości.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 143,
+        "content": "Promowanie równości, wsparcie dla mniejszości, edukacja antydyskryminacyjna.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 144,
+        "content": "Przeciw polityce 'gender', za tradycyjnymi wartościami.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "content": "Czy zamierza Pan/Pani wspierać rozwój kultury i sztuki? Jeśli tak, to w jaki sposób?",
+    "answers": [
+      {
+        "id": 151,
+        "content": "Wzrost finansowania kultury, promocja artystów, dostęp do kultury.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 152,
+        "content": "Wsparcie kultury zgodnie z polityką PiS.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 153,
+        "content": "Inwestycje w kulturę, nowe instytucje kulturalne, wsparcie dla artystów.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 154,
+        "content": "Krytyka finansowania kultury, promocja swobody twórczej bez subwencji.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "content": "Jakie kroki zamierza Pan/Pani podjąć w celu walki z kryzysem klimatycznym?",
+    "answers": [
+      {
+        "id": 161,
+        "content": "Wprowadzenie zielonej polityki, redukcja emisji, inwestycje w ekologiczne technologie.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 162,
+        "content": "Mniej ambitna polityka klimatyczna, zgodnie z linią PiS.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 163,
+        "content": "Silne działania proklimatyczne, w tym redukcja emisji CO2 i promocja zielonej energii.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 164,
+        "content": "Przeciwny polityce klimatycznej UE, promocja energii jądrowej.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "content": "Czy planuje Pan/Pani inwestycje w rozwój transportu publicznego i ograniczenie emisji spalin?",
+    "answers": [
+      {
+        "id": 171,
+        "content": "Tak, modernizacja transportu publicznego, rozwój infrastruktury rowerowej.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 172,
+        "content": "Możliwe wsparcie dla transportu publicznego, ale bez szczegółów.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 173,
+        "content": "Rozwój transportu publicznego, elektromobilność, ograniczenie smogu.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 174,
+        "content": "Brak konkretnych deklaracji, krytyka dotacji do transportu publicznego.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "content": "Czy zamierza Pan/Pani wspierać rozwój technologii redukujących zanieczyszczenia w Polsce?",
+    "answers": [
+      {
+        "id": 181,
+        "content": "Tak, wsparcie dla innowacji w zakresie czystych technologii.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 182,
+        "content": "Możliwe wsparcie, ale oparte na polityce PiS.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 183,
+        "content": "Inwestycje w technologie czyste, wsparcie dla start-upów w tej dziedzinie.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 184,
+        "content": "Krytyka regulacji, promocja rynkowych rozwiązań.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "Jakie środki zamierza Pan/Pani przeznaczyć na ochronę zasobów wodnych i leśnych?",
+    "answers": [
+      {
+        "id": 191,
+        "content": "Zwiększenie funduszy na ochronę środowiska, programy rewildingu.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 192,
+        "content": "Kontynuacja działań PiS w zakresie ochrony środowiska.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 193,
+        "content": "Ochrona zasobów naturalnych, edukacja ekologiczna, inwestycje w zrównoważone zarządzanie zasobami.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 194,
+        "content": "Brak szczegółowych deklaracji, ogólnie przeciw regulacjom środowiskowym.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "Czy popiera Pan/Pani wprowadzenie nowych regulacji ograniczających emisję CO2 przez przemysł?",
+    "answers": [
+      {
+        "id": 201,
+        "content": "Tak, popiera regulacje zgodne z polityką Unii Europejskiej.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 202,
+        "content": "Może być sceptyczny, ale popiera pewne regulacje, aby spełnić wymogi UE.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 203,
+        "content": "Silne poparcie dla regulacji, które zmniejszą emisję CO2.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 204,
+        "content": "Przeciwny regulacjom ograniczającym emisję CO2.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "content": "Jak zamierza Pan/Pani zagwarantować niezależność sądów i instytucji publicznych?",
+    "answers": [
+      {
+        "id": 211,
+        "content": "Przywrócenie niezależności sądów, reforma wymiaru sprawiedliwości.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 212,
+        "content": "Może popierać obecną politykę PiS, która jest kontrowersyjna w kwestii niezależności sądów.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 213,
+        "content": "Odbudowa zaufania do sądów, reforma systemu sądowniczego, by zagwarantować niezależność.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 214,
+        "content": "Walka o niezależność sądów, ale bez szczegółowych deklaracji.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "content": "Czy planuje Pan/Pani zmiany w Konstytucji? Jeśli tak, to jakie?",
+    "answers": [
+      {
+        "id": 221,
+        "content": "Możliwe zmiany, by wzmocnić prawa obywatelskie, demokrację i praworządność.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 222,
+        "content": "Może nie planować zmian lub kontynuować politykę PiS w tej dziedzinie.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 223,
+        "content": "Proponuje referendum konstytucyjne, aby Polacy mogli zdecydować o zmianach.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 224,
+        "content": "Proponuje reset konstytucyjny.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "content": "Jakie kroki podejmie Pan/Pani, aby zwiększyć transparentność działań rządu i administracji publicznej?",
+    "answers": [
+      {
+        "id": 231,
+        "content": "Ustawy antykorupcyjne, dostęp do informacji publicznej, otwartość rządu.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 232,
+        "content": "Może opierać się na deklaracjach PiS dotyczących transparentności.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 233,
+        "content": "Wprowadzenie mechanizmów kontroli, otwartość decyzji administracyjnych, walka z korupcją.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 234,
+        "content": "Krytyka biurokracji, promocja transparentności.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "content": "Czy przewiduje Pan/Pani reformę ordynacji wyborczej lub finansowania partii politycznych?",
+    "answers": [
+      {
+        "id": 241,
+        "content": "Popiera reformę na rzecz większej reprezentatywności i transparentności.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 242,
+        "content": "Może być ostrożny w zmianach, zgodnie z linią PiS.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 243,
+        "content": "Zmiany, aby ordynacja lepiej odzwierciedlała wolę wyborców, reforma finansowania partii.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 244,
+        "content": "Reforma na rzecz większej suwerenności i transparentności.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "content": "W jaki sposób zamierza Pan/Pani przeciwdziałać dezinformacji w przestrzeni publicznej?",
+    "answers": [
+      {
+        "id": 251,
+        "content": "Edukacja medialna, regulacje dotyczące platform internetowych.",
+        "author": "trzaskowski",
+        "check": false
+      },
+      {
+        "id": 252,
+        "content": "Może wspierać edukację historyczną i krytyczne myślenie.",
+        "author": "nawrocki",
+        "check": false
+      },
+      {
+        "id": 253,
+        "content": "Instytucje fakt-checkingowe, edukacja społeczna, wsparcie dla niezależnych mediów.",
+        "author": "holownia",
+        "check": false
+      },
+      {
+        "id": 254,
+        "content": "Krytyka regulacji, promocja wolności słowa.",
+        "author": "mentzen",
+        "check": false
+      }
+    ]
+  }
+]
+
