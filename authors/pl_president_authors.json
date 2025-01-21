@@ -1,0 +1,34 @@
+[
+  {
+    "id": "trzaskowski",
+    "name": "Rafał Trzaskowski",
+    "description": null,
+    "color": "orange",
+    "photoUrl": "/icons/trzaskowski-bg.png",
+    "selected": false
+  },
+  {
+    "id": "mentzen",
+    "name": "Sławomir Mentzen",
+    "description": null,
+    "color": "blue",
+    "photoUrl": "/icons/mentzen-bg.png",
+    "selected": false
+  },
+  {
+    "id": "holownia",
+    "name": "Szymon Hołownia",
+    "description": null,
+    "color": "yellow-8",
+    "photoUrl": "/icons/holownia-bg.png",
+    "selected": false
+  },
+  {
+    "id": "nawrocki",
+    "name": "Karol Nawrocki",
+    "description": null,
+    "color": "red",
+    "photoUrl": "/icons/nawrocki-bg.png",
+    "selected": false
+  }
+]
